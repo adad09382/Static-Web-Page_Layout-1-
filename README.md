@@ -1,5 +1,5 @@
 # Static-Web-Page_Exercise-1 
-靜態網站練習 (圍棋資訊網)
+靜態網站練習1 (圍棋資訊網)
 
 本網頁主幹以基礎html + css 指令完成，背景特殊動畫套用cdnjs 中的canvas-nest.js ，日本頁面圓餅圖套用引入google chart code
 
